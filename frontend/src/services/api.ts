@@ -6,9 +6,9 @@ import type { AxiosInstance } from "axios";
 
 // API Base URLs
 // ✅ These are correct for production
-const FACULTY_URL = "https://event-management-faculty.onrender.com/faculty";
-const STUDENT_URL = "https://event-management-student.onrender.com";
-const EVENT_URL = "https://event-management-events.onrender.com/api/stu_events";
+const FACULTY_URL = "https://ip-mini-project-faculty.onrender.com/";
+const STUDENT_URL = "https://ip-mini-project-student.onrender.com/";
+const EVENT_URL = "https://ip-mini-project-events.onrender.com/";
 
 // Create axios instances
 const facultyApi = axios.create({ baseURL: FACULTY_URL });
