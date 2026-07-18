@@ -12,7 +12,7 @@ import java.util.Map;
 
 @CrossOrigin(origins = {
     "http://localhost:5173",
-    "https://ip-mini-project-xi.vercel.app"
+    "ip-mini-project-kappa.vercel.app"
 })
 @RestController
 @RequestMapping("/faculty")
