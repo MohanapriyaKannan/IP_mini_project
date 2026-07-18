@@ -9,7 +9,7 @@ import java.util.List;
 
 @CrossOrigin(origins = {
     "http://localhost:5173",
-    "https://ip-mini-project-xi.vercel.app"
+    "ip-mini-project-kappa.vercel.app"
 })
 @RestController
 @RequestMapping("/api/stu_events")
