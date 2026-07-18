@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 @CrossOrigin(origins = {
     "http://localhost:5173",
-    "https://ip-mini-project-xi.vercel.app"
+    "ip-mini-project-kappa.vercel.app"
 }, allowCredentials = "true")
 @RestController
 public class RegisterController {
